@@ -1,0 +1,35 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDUwYTA1MDUwNTA1MGEwNTA1MDUwNTA1MGEwNTAzMDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA4MDkwOTA2MGMwOTA5MDkwOTA5MDkwOTA5MDkwOTA3MDgwOTA5MGQwYjA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA4MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA3MDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwYTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwYTA4MDkwOTA5MDkwOTA2MGMwOTA5MDkwOTA5MDkwOTA3MDgwOTA5MDkwOTA5MGQwYjA5MDkwOTA5MDkwOTA5MDcwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA4MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MGUwOTA3MDgwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDcwODA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwOTA5MDkwNzA0MGEwYTAxMDEwMTAxMDEwYTAxMDEwMTAxMGEwMTAzMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.purpleOuterNorth1",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterNorth0",
+            "sprites.dungeon.purpleInnerNorthWest",
+            "sprites.dungeon.purpleOuterEast0",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.purpleOuterNorth2",
+            "sprites.dungeon.purpleInnerSouthEast",
+            "sprites.dungeon.purpleInnerNorthEast",
+            "sprites.dungeon.purpleInnerSouthWest",
+            "sprites.dungeon.chestClosed"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
